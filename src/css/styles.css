@@ -53,9 +53,9 @@ font-size: 12px;
 }
 
 .photo-image {
-    object-fit: cover;
-    height: 94%;
-    width: 94%;
+object-fit: cover;
+height: 94%;
+width: 94%;
 }
 
 .search-form {
