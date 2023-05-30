@@ -75,7 +75,7 @@ async function createMarkup(markup) {
   </div>
   </a>
 </div>`
-      });
+      }).join('');
         refs.gallery.insertAdjacentHTML("beforeend", makeMarkup)
         lightbox.refresh();
        }
